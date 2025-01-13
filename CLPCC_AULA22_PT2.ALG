@@ -5,7 +5,7 @@ var
     nome : caractere
 
 inicio
-      escreval("Qual o seu Nome")
+      escreval("Qual o seu Nome?")
       leia(nome)
 
       escreval("Qual a sua idade?")
@@ -14,8 +14,8 @@ inicio
       //composta
 
       se( idade >= 67 ) entao
-         escreval("Parabéns ", nome)
-         escreval("você  pode receber a vacina")
+         escreval("ParabÃ©ns ", nome)
+         escreval("vocÃª  pode receber a vacina")
       senao
          escreval("Aguarde sua vez ", nome)
       fimse
