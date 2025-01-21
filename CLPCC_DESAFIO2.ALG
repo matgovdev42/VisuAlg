@@ -9,10 +9,10 @@ inicio
       leia(numero)
       
       se( numero MOD 10  = 0 ) entao
-      escreval("Seu numero È multiplo de 10")
+      escreval("Seu numero √© multiplo de 10")
       
       senao
-           escreval("Seu numero nı È multiplo de 10")
+           escreval("Seu numero n√µ √© multiplo de 10")
            
            fimse
 
