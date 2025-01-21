@@ -10,7 +10,7 @@ Inicio
       
       F <- (9 * C + 160) / 5
       
-      escreval("Sua temperatura em Fahrenheit é de: ", F)
+      escreval("Sua temperatura em Fahrenheit Ã© de: ", F)
 
       se(F <= 90) e (F >= 45)entao
          escreval("Temperatura ideal para o experimento")
