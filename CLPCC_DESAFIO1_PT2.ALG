@@ -6,18 +6,18 @@ var
 
 inicio
       //entrada de dados
-      escreval("Digite o primeiro número: ")
+      escreval("Digite o primeiro nÃºmero: ")
       leia(num1)
       
-      escreval("Digite o segundo número: ")
+      escreval("Digite o segundo nÃºmero: ")
       leia(num2)
       
       //processamento
       se(num1 > num2)entao
-         escreval("O maior número é: ", num1)
+         escreval("O maior nÃºmero Ã©: ", num1)
          senao
       se(num1 < num2)entao
-           escreval("O maior número é: ", num2)
+           escreval("O maior nÃºmero Ã©: ", num2)
          senao
       se(num1 = num2) entao
            escreval("Ambos tem o mesmo valor: ", num1)
