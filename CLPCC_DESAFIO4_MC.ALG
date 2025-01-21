@@ -18,9 +18,9 @@ Inicio
        salario2 <- salario2 + salario
        
        se(salario <= 1050)entao
-          escreval("Seu salario atual é de: ", salario2 + abono)
+          escreval("Seu salario atual Ã© de: ", salario2 + abono)
        senao
-          escreval("Seu salario atual é de: ", salario2)
+          escreval("Seu salario atual Ã© de: ", salario2)
 
        fimse
 
