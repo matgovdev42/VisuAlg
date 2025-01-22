@@ -5,13 +5,13 @@ Var
 
 
 Inicio
-       escreval("Digite o ano que gostaria de saber se È ou n„o Bissexto: ")
+       escreval("Digite o ano que gostaria de saber se √© ou n√£o Bissexto: ")
        leia(ano)
        
        se(ano MOD 4 = 0) e (ano MOD 100 <> 0) ou (ano MOD 400 = 0) entao
-          escreval(ano, " È Bissexto.")
+          escreval(ano, " √© Bissexto.")
        senao
-          escreval(ano, " n„o È Bissexto.")
+          escreval(ano, " n√£o √© Bissexto.")
           
        fimse
        
