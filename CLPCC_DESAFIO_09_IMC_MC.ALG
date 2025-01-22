@@ -21,22 +21,22 @@ Inicio
       imc <- peso / altura^2
       
       se(imc < 18.5)entao
-         escreval(nome , " seu IMC é de MAGREZA")
+         escreval(nome , " seu IMC Ã© de MAGREZA")
       senao
          se(imc > 18.6) e (imc < 24.9)entao
-            escreval(nome , " seu IMC é de SAUDÁVEL")
+            escreval(nome , " seu IMC Ã© de SAUDÃVEL")
          senao
             se(imc > 25.0) e (imc < 29.9)entao
-               escreval(nome , " seu IMC é de SOBREPESO")
+               escreval(nome , " seu IMC Ã© de SOBREPESO")
             senao
                se(imc > 30.0) e (imc < 34.9)entao
-                  escreval(nome , " seu IMC é de  OBESIDADE GRAU 1")
+                  escreval(nome , " seu IMC Ã© de  OBESIDADE GRAU 1")
                senao
                   se(imc > 35.0) e (imc < 39.9)entao
-                     escreval(nome , " seu iMC é de  OBESIDADE GRAU 2")
+                     escreval(nome , " seu iMC Ã© de  OBESIDADE GRAU 2")
                   senao
                      se(imc > 40.0)entao
-                        escreval(nome , " seu IMC é de OBESIDADE GRAU 3")
+                        escreval(nome , " seu IMC Ã© de OBESIDADE GRAU 3")
 
                      fimse
                   fimse
