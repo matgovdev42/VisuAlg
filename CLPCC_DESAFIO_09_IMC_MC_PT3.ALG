@@ -28,7 +28,7 @@ Inicio
          escreval(nome , " estado de MAGREZA, IMC " , imc:3:2)
       senao
          se(imc > 18.6) e (imc < 24.9)entao
-            escreval(nome , " estado de SAUDÁVEL, IMC " , imc:3:2)
+            escreval(nome , " estado de SAUDÃVEL, IMC " , imc:3:2)
          senao
             se(imc > 25.0) e (imc < 29.9)entao
                escreval(nome , " estado de SOBREPESO, IMC " , imc:3:2)
@@ -55,14 +55,14 @@ Inicio
       ideal_quatro <- ideal_dois * altura^2
 
       se(imc < 18.5)entao
-         escreval("Você precisa ganhar: ")
-         escreval(ideal_tres:2:2 , "Kg para atingir o saudável")
+         escreval("VocÃª precisa ganhar: ")
+         escreval(ideal_tres:2:2 , "Kg para atingir o saudÃ¡vel")
       senao
          se(imc > 24.9)entao
-            escreval("Você precisa perder: ")
-            escreval(ideal_quatro:2:2 , "Kg para atingir o saudável")
+            escreval("VocÃª precisa perder: ")
+            escreval(ideal_quatro:2:2 , "Kg para atingir o saudÃ¡vel")
          senao
-            escreval("Prabéns, continue assim!")
+            escreval("ParabÃ©ns, continue assim!")
 
          fimse
       fimse
