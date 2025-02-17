@@ -6,11 +6,11 @@ Var
 
 Inicio
       fatorial <- 1
-      escreva("N˙mero inteiro: ")
+      escreva("N√∫mero inteiro: ")
       leia(x)
       
-      se(x < 1) ou (x > s)entao
-           escreval("Valor inv·lido")
+      se(x < 1) ou (x > 5)entao
+           escreval("Valor inv√°lido")
       senao
            para i de 1 ate 10 faca
                 fatorial <- i * fatorial
