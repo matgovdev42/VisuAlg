@@ -30,6 +30,6 @@ Inicio
       
       escreval("Potencia = ", potencia)
       escreval("**********")
-      escreval("Com Função: ", exp(base, expoente))
+      escreval("Com FunÃ§Ã£o: ", exp(base, expoente))
 
 Fimalgoritmo
