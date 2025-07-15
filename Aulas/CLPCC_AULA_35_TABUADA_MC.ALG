@@ -13,7 +13,7 @@ Inicio
       leia(tabuada)
       
       escreval()
-      escreva("Adição")
+      escreva("AdiÃ§Ã£o")
       escreval()
       para i de 1 ate 10 faca
           escreval(tabuada, " + " , i, " = ", tabuada + i)
@@ -21,7 +21,7 @@ Inicio
       fimpara
       
       escreval()
-      escreva("Subtração")
+      escreva("SubtraÃ§Ã£o")
       escreval()
       para i de 1 ate 10 faca
           escreval(tabuada, " - " , i, " = ", tabuada - i)
@@ -29,7 +29,7 @@ Inicio
       fimpara
       
       escreval()
-      escreva("Multiplicação")
+      escreva("MultiplicaÃ§Ã£o")
       escreval()
       para i de 1 ate 10 faca
           escreval(tabuada, " * " , i, " = ", tabuada * i)
@@ -37,7 +37,7 @@ Inicio
       fimpara
       
       escreval()
-      escreva("Divisão")
+      escreva("DivisÃ£o")
       escreval()
       para i de 1 ate 10 faca
           escreval(tabuada, " / " , i, " = ", tabuada / i)
