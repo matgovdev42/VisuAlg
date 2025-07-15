@@ -2,7 +2,7 @@ algoritmo "divisores_aula12"
 
 var
 
-     //declaração das vriaveis
+     //declaraÃ§Ã£o das vriaveis
      a, b : inteiro
      divisao_int, resto : inteiro
      
