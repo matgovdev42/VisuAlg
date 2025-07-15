@@ -1,7 +1,7 @@
 algoritmo "EX03_2"
 
 var
-      //seção de declaração das variáveis
+      //seÃ§Ã£o de declaraÃ§Ã£o das variÃ¡veis
       n1, n2, total : inteiro
 
 
@@ -13,7 +13,7 @@ inicio
       escreva("Digite outro numero: ")
       leia(n2)
       
-      //processamento e saída de dados
+      //processamento e saÃ­da de dados
       total <- n1 + n2
       escreval("Soma = ", total)
       
