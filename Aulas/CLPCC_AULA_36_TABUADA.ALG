@@ -5,7 +5,7 @@ Var
 
 
 Inicio
-       //inicialização
+       //inicializaÃ§Ã£o
        i <- 1
        
        enquanto i <= 10 faca
