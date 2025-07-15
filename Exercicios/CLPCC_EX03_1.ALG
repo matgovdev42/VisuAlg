@@ -1,7 +1,7 @@
 algoritmo "EX03_1"
 
 var
-      //seÁ„o de declaraÁ„o das vari·veis
+      //se√ß√£o de declara√ß√£o das vari√°veis
       n1, n2, soma, subtracao, multiplicacao : inteiro
 
 
@@ -18,7 +18,7 @@ inicio
       subtracao <- n1 - n2
       multiplicacao <- n1 * n2
       
-      //saÌda de dados
+      //sa√≠da de dados
       escreval("Soma = ", soma)
       escreval("Subtracao = ", subtracao)
       escreval("multiplicacao = ", multiplicacao)
