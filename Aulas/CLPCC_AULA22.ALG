@@ -9,7 +9,7 @@ inicio
       
       //composta
       se( idade >= 67 ) entao
-         escreval("Parabéns, você  pode ser vacinado(a)")
+         escreval("ParabÃ©ns, vocÃª  pode ser vacinado(a)")
       senao
          escreval("Aguarde sua vez para ser vaacinado(a)")
       fimse
