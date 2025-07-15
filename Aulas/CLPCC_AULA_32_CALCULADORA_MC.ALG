@@ -12,12 +12,12 @@ inicio
       leia(x, y)
       escreval()
       escreval("1 - SOMA")
-      escreval("2 - SUBTRA«√O")
-      escreval("3 - MULTIPLICA«√O")
-      escreval("4 - DIVIS√O")
-      escreval("5 - POT NCIA")
+      escreval("2 - SUBTRA√á√ÉO")
+      escreval("3 - MULTIPLICA√á√ÉO")
+      escreval("4 - DIVIS√ÉO")
+      escreval("5 - POT√äNCIA")
       escreval("6 - ENCERRAR PROGRAMA")
-      escreval("ESCOLHA A OPERA«√O: [1] A [6]")
+      escreval("ESCOLHA A OPERA√á√ÉO: [1] A [6]")
       leia(op)
       escreval()
       
@@ -36,7 +36,7 @@ inicio
         
         caso 4
              se(y = 0)entao
-             escreval("Divis„o por ZERO")
+             escreval("Divis√£o por ZERO")
              fimalgoritmo
              fimse
         resultado <- x / y
@@ -51,7 +51,7 @@ inicio
 
         fimalgoritmo
         outrocaso
-           escreval("OperaÁ„o Inv·lida")
+           escreval("Opera√ß√£o Inv√°lida")
         
         
       fimescolha
