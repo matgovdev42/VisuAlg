@@ -12,7 +12,7 @@ Inicio
       NUMeleitor <- 1
       
       repita
-            escreval("*** UNRNA ELETRÔNICA ***")
+            escreval("*** UNRNA ELETRÃ”NICA ***")
             escreval()
             escreval("Eleitor N*. ", NUMeleitor)
             escreval()
@@ -21,7 +21,7 @@ Inicio
             escreval("Candidato A - (1)")
             escreval("Candidato B - (2)")
             escreval("Candidato C - (3)")
-            escreval("Escolha o número do candidato")
+            escreval("Escolha o nÃºmero do candidato")
             leia(candidatoNUM)
             
             escolha candidatoNUM
@@ -32,7 +32,7 @@ Inicio
                     caso 3
                     candiC <- candiC + 1
                     outrocaso
-                    escreval("Voto Inválido")
+                    escreval("Voto InvÃ¡lido")
                     votosinvalidos <- votosinvalidos + 1
             fimescolha
             
@@ -45,20 +45,20 @@ Inicio
                        
             ate((votar = "N") ou (votar = "n"))
             
-            escreval("Apuração da Votação / votos")
+            escreval("ApuraÃ§Ã£o da VotaÃ§Ã£o / votos")
             escreval("Candidato A = ", candiA)
             escreval("Candidato B = ", candiB)
             escreval("Candidato C = ", candiC)
-            escreval("Votos Inválidos = ", votosinvalidos)
-            escreval("Número de Eleitores : ", NUMeleitor)
+            escreval("Votos InvÃ¡lidos = ", votosinvalidos)
+            escreval("NÃºmero de Eleitores : ", NUMeleitor)
             
             somatotal <- candiA + candiB + candiC + votosinvalidos
             escreval()
-            escreval("Apuração da votação / Porcentagem")
+            escreval("ApuraÃ§Ã£o da votaÃ§Ã£o / Porcentagem")
             escreval("Candidato A = ", (candiA * 100 / somatotal), "%")
             escreval("Candidato B = ", (candiB * 100 / somatotal), "%")
             escreval("Candidato C = ", (candiC * 100 / somatotal), "%")
-            escreval("Votos Inválidos = ", (votosinvalidos * 100 / somatotal), "%")
+            escreval("Votos InvÃ¡lidos = ", (votosinvalidos * 100 / somatotal), "%")
 
 
 Fimalgoritmo
