@@ -5,7 +5,7 @@ Var
     i : inteiro
 
 Inicio
-      escreval("Número: ")
+      escreval("NÃºmero: ")
       leia(num)
       
       para i de 1 ate num faca
