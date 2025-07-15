@@ -2,7 +2,7 @@ algoritmo "soma2num"
 
 
 var
-     //Seção de Declaração de Variáveis
+     //SeÃ§Ã£o de DeclaraÃ§Ã£o de VariÃ¡veis
 
      A : inteiro
      B, C : inteiro
@@ -12,7 +12,7 @@ var
 inicio
        //fase de entrada de dados
 
-       //comando de saída de dados
+       //comando de saÃ­da de dados
        escreva("Digite um numero: ")
        
        //comando de entrada
@@ -24,7 +24,7 @@ inicio
        //processamento
        C <- A - B
        
-       //fase saída de dddos
+       //fase saÃ­da de dddos
        escreva(C)
 
 fimalgoritmo
