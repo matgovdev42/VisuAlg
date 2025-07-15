@@ -6,7 +6,7 @@ var
 
 inicio
       //entrada de dados
-      escreval("Base de c·lculos?")
+      escreval("Base de c√°lculos?")
       leia(base_calculo)
       
       //processamento de dados
@@ -35,7 +35,7 @@ inicio
 
       imposto <- (base_calculo * aliquota/100) - parcela
       
-      //saÌda de dados
+      //sa√≠da de dados
       escreval("Aliquota = ", aliquota:4:2)
       escreval("Parcela = ", parcela:10:2)
       escreval("IRPF = ", imposto:8:2)
