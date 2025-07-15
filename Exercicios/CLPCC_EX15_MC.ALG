@@ -14,8 +14,8 @@ Inicio
       //processamento de dados
       c <- k / litros
 
-      //saída de dados
-      escreval("Valor do consumo médio é de = ", c)
+      //saÃ­da de dados
+      escreval("Valor do consumo mÃ©dio Ã© de = ", c)
 
 
 Fimalgoritmo
