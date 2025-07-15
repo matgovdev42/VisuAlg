@@ -4,7 +4,7 @@ Var
    i, soma: inteiro
 
 Inicio
-      //inicialização
+      //inicializaÃ§Ã£o
       i <- 1
       
       //parada
