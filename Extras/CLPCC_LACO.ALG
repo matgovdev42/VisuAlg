@@ -10,6 +10,6 @@ inicio
               i <- i + 1
       fimenquanto
       
-      escreval("Depois do laço")
+      escreval("Depois do laÃ§o")
 
 fimalgoritmo
