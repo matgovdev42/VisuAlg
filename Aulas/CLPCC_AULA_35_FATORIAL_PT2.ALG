@@ -8,7 +8,7 @@ Var
 Inicio
       repita
 
-       escreva("Número: ")
+       escreva("NÃºmero: ")
        leia(numero)
        
        fatorial <- 1
