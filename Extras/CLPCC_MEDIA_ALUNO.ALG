@@ -12,14 +12,14 @@ inicio
       escreval("Segunda Nota: ")
       leia(nota2)
       
-      //processamento e saída
+      //processamento e saÃ­da
       media <- (nota1 + nota2) / 2
       
       se (media >= 7) entao
           situacao <- "Aprovado(a)"
       senao
            se ((media >= 5) e (media < 7)) entao
-           situacao <- "Recuperação"
+           situacao <- "RecuperaÃ§Ã£o"
            senao
            se (media < 5) entao
            situacao <- "Reprovado(a)"
