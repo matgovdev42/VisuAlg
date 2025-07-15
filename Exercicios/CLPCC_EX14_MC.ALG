@@ -17,7 +17,7 @@ inicio
       soma <- (a + b + c)
       soma2 <- exp(soma,2)
       
-      //saída de dados
+      //saÃ­da de dados
       escreval("Valor final = ", soma2)
 
 
