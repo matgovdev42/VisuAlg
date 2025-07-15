@@ -24,7 +24,7 @@ Inicio
          escreval(nome , " estado de MAGREZA, IMC " , imc:3:2)
       senao
          se(imc > 18.6) e (imc < 24.9)entao
-            escreval(nome , " estado de SAUDÁVEL, IMC " , imc:3:2)
+            escreval(nome , " estado de SAUDÃVEL, IMC " , imc:3:2)
          senao
             se(imc > 25.0) e (imc < 29.9)entao
                escreval(nome , " estado de SOBREPESO, IMC " , imc:3:2)
