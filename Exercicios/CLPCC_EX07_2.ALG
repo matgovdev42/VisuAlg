@@ -1,7 +1,7 @@
 Algoritmo "clpcc_ex07_2"
 
 Var
-     //declarÁ„o de vari·veis
+     //declar√ß√£o de vari√°veis
      a, b, c : real
      soma, sub, mult, divi : real
 
@@ -22,7 +22,7 @@ Inicio
      mult <- a * b * c
      divi <- a / b /c
      
-     //saÌda de dados
+     //sa√≠da de dados
      escreval("soma = ", soma:9:4)
      escreval("subtracacao = ", sub:9:4)
      escreval("multiplicacao = ", mult:9:4)
