@@ -10,3 +10,10 @@
 <img src="https://github.com/user-attachments/assets/9d2d3ba6-8e42-4987-a636-337e38c43afc" width="65px" alt="visualg" />
 <img src="https://github.com/user-attachments/assets/accddf86-7060-4dd4-adf9-86564821de5e" width="65px" alt="logica" />
 
+## Estrutura
+
+- 📚 **Aulas**: Códigos desenvolvidos durante as aulas do curso.
+- 🧠 **Exercícios**: Atividades práticas para fixar o conteúdo.
+- 🎯 **Desafios**: Exercícios mais avançados e lógicos.
+- 🛠️ **Extras**: Códigos adicionais ou experimentais.
+
