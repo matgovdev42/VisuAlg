@@ -5,7 +5,7 @@ Var
     num, i : inteiro
 
 Inicio
-       escreva("Número de alunos: ")
+       escreva("NÃºmero de alunos: ")
        leia(num)
        escreval()
        
@@ -16,18 +16,18 @@ Inicio
        escreva("Nota 1: ")
        leia(nota1)
        
-       //validação da nota 1
+       //validaÃ§Ã£o da nota 1
        enquanto((nota1 < 0) ou (nota1 > 10))faca
-          escreval("Nota Inválida")
+          escreval("Nota InvÃ¡lida")
           leia(nota1)
        fimenquanto
        
        escreva("Nota 2: ")
        leia(nota2)
        
-       //validação da nota 2
+       //validaÃ§Ã£o da nota 2
        enquanto((nota2 < 0) ou (nota2 > 10))faca
-          escreval("Nota Inválida")
+          escreval("Nota InvÃ¡lida")
           leia(nota2)
        fimenquanto
        
