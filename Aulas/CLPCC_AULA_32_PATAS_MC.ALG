@@ -12,7 +12,7 @@ inicio
        escreval("COBRA")
        escreval("CENTOPEIA")
        escreval("CAVALO")
-       escreval("P¡SSARO")
+       escreval("P√ÅSSARO")
        escreval("ARANHA")
        escreval("FORMIGA")
        escreval("GALINHA")
@@ -30,9 +30,9 @@ inicio
          escreval(animal , " tem 100 Patas")
          
          caso "COBRA"
-         escreval(animal , " n„o possui Patas")
+         escreval(animal , " n√£o possui Patas")
          
-         caso "P¡SSARO", "GALINHA"
+         caso "P√ÅSSARO", "GALINHA"
          escreval(animal , " tem 2 Patas")
          
          caso "ARANHA"
@@ -42,7 +42,7 @@ inicio
          escreval(animal , " tem 6 Patas")
          
          outrocaso
-         escreval("NOME N√O  RECONHECIDO")
+         escreval("NOME N√ÉO  RECONHECIDO")
        fimescolha
        
 
