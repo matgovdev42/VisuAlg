@@ -1,7 +1,7 @@
 algoritmo "EX04_1"
 
 var
-      //seção de declaração das variáveis
+      //seÃ§Ã£o de declaraÃ§Ã£o das variÃ¡veis
       n1, n2, n3, total : inteiro
 
 
@@ -16,7 +16,7 @@ inicio
       escreva("Digite outro numero: ")
       leia(n3)
       
-      //processamento e saída de dados
+      //processamento e saÃ­da de dados
       total <- n1 + n2 + n3
       escreval("Soma = ", total)
       
