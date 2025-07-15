@@ -4,14 +4,14 @@ Var
    numero : inteiro
 
 Inicio
-      escreval("Digite um número: ")
+      escreval("Digite um nÃºmero: ")
       leia(numero)
       
       se( numero MOD 2 = 0 ) entao
-         escreval(numero, " é par")
+         escreval(numero, " Ã© par")
          
       senao
-          escreval(numero, " é impar")
+          escreval(numero, " Ã© impar")
 
       fimse
 
