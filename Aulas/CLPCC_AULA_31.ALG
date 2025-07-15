@@ -9,7 +9,7 @@ Inicio
        
       //Processamento do Caso vs Se
       //Caso do tipo Case ou Switcase
-      //Onde o processamento do se È feito linha por linha
+      //Onde o processamento do se √© feito linha por linha
       //E o processamento do Caso feito diretamente na variavel digitada
       
        escolha dia
@@ -18,7 +18,7 @@ Inicio
             caso 2
             escreval("Segunda-Feira")
                caso 3
-               escreval("TerÁa-Feira")
+               escreval("Ter√ßa-Feira")
                   caso 4
                   escreval("Quarta-Feira")
                      caso 5
@@ -26,9 +26,9 @@ Inicio
                         caso 6
                         escreval("Sexta-Feira")
                            caso 7
-                           escreval("Sab·do")
+                           escreval("Sab√°do")
                               outrocaso
-                              escreval("Dia inv·lido")
+                              escreval("Dia inv√°lido")
 
                            fimescolha
          
@@ -39,7 +39,7 @@ Inicio
             escreval("Segunda-Feira")
           senao
              se(dia = 3)entao
-               escreval("TerÁa-Feira")
+               escreval("Ter√ßa-Feira")
              senao
                 se(dia = 4)entao
                   escreval("Quarta-Feira")
@@ -51,10 +51,10 @@ Inicio
                         escreval("Sexta-Feira")
                       senao
                          se(dia = 7)entao
-                           escreval("Sab·do")
+                           escreval("Sab√°do")
 
                          senao
-                           escreval("Dia Inv·lido")
+                           escreval("Dia Inv√°lido")
 
                          fimse
                       fimse
