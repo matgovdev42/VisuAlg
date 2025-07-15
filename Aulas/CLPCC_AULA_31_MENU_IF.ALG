@@ -9,25 +9,25 @@ Var
 Inicio
        escreval("**** MENU ****")
        escreval()
-       escreval("Código    Prato                Preço")
+       escreval("CÃ³digo    Prato                PreÃ§o")
        escreval("  1       Peixe ao Molho       R$ 115,00")
        escreval("  2       Macarronada          R$ 33,00")
        escreval("  3       Frango a Parmegiana  R$ 65,00")
-       escreval("  4       Filé Mignon          R$ 78,00")
+       escreval("  4       FilÃ© Mignon          R$ 78,00")
        escreval("  5       Churrasco            R$ 70,00")
        escreval()
-       escreval("Informe o código do PRATO: ")
+       escreval("Informe o cÃ³digo do PRATO: ")
        
        leia(codigo)
        
        se(codigo < 1) ou (codigo > 5)entao
-         escreval("Código do Prato inválido")
-         escreval("Obrigado pela Preferência")
+         escreval("CÃ³digo do Prato invÃ¡lido")
+         escreval("Obrigado pela PreferÃªncia")
          
          fimalgoritmo
       fimse
       
-      escreval("Deseja pagar o serviço? [V] ou [F]: ")
+      escreval("Deseja pagar o serviÃ§o? [V] ou [F]: ")
       leia(gorjeta)
       
       se(gorjeta = VERDADEIRO)entao
@@ -35,7 +35,7 @@ Inicio
         escreval("12")
         escreval("15")
         
-        escreval("Escolha a porcentagem do serviço")
+        escreval("Escolha a porcentagem do serviÃ§o")
         leia(porcentagem)
         
         fimse
@@ -59,7 +59,7 @@ Inicio
                 preco <- 65.00
               senao
                  se codigo = 4 entao
-                   prato <- "Filé Mignon"
+                   prato <- "FilÃ© Mignon"
                    preco <- 78.00
                  senao
                     se codigo = 5 entao
@@ -83,7 +83,7 @@ Inicio
         fimse
         
         escreval()
-        escreval("Obrigado pela preferência!")
+        escreval("Obrigado pela preferÃªncia!")
         escreval("Volte Sempre!")
 
 Fimalgoritmo
