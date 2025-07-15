@@ -5,16 +5,16 @@ Var
     soma2 : real
 
 Inicio
-      //primeira opção
+      //primeira opÃ§Ã£o
       para i de 2 ate 5 faca
            soma <- soma + i * i
       fimpara
       escreval("Soma = ", soma)
       
-      //segunda opção
+      //segunda opÃ§Ã£o
       i <- 2
       enquanto i <= 5 faca
-               soma2 <- soma2 + i ^2  //potência precisa de um operador real
+               soma2 <- soma2 + i ^2  //potÃªncia precisa de um operador real
                i <- i + 1
       fimenquanto
       escreval("Soma 2 = ", soma2)
