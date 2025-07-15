@@ -5,7 +5,7 @@ Var
    i : inteiro
 
 Inicio
-       escreva("Número: ")
+       escreva("NÃºmero: ")
        leia(numero)
        
        fatorial <- 1
