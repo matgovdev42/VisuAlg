@@ -19,7 +19,7 @@ inicio
       
       s <- exp(a,2) + exp(b,2) + exp(c,2)
       
-      //saída de dados
+      //saÃ­da de dados
       escreva("Soma dos quadrados = ", s)
       
 fimalgoritmo
