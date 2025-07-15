@@ -17,17 +17,17 @@ Inicio
        //processamento
        
        se(A >= B + C)entao
-          escreval("Não forma um Triângulo")
+          escreval("NÃ£o forma um TriÃ¢ngulo")
           fimalgoritmo
        senao
           se(A^2 = B^2 + C^2)entao
-             escreval("Triângulo Retângulo")
+             escreval("TriÃ¢ngulo RetÃ¢ngulo")
           senao
              se(A^2 > B^2 + C^2)entao
-                escreval("Triângulo Obtusângulo")
+                escreval("TriÃ¢ngulo ObtusÃ¢ngulo")
              senao
                 se(A^2 < B^2 + C^2)entao
-                   escreval("Triângulo Acutângulo")
+                   escreval("TriÃ¢ngulo AcutÃ¢ngulo")
 
                 fimse
              fimse
@@ -35,12 +35,12 @@ Inicio
        fimse
 
        se(A = B) e (B = C)entao
-          escreval("Triângulo Equilátero")
+          escreval("TriÃ¢ngulo EquilÃ¡tero")
        senao
           se(A = B) ou (A = C) ou (B = C)entao
-             escreval("Triângulo Isósceles")
+             escreval("TriÃ¢ngulo IsÃ³sceles")
           senao
-             escreval("Triângulo Escaleno")
+             escreval("TriÃ¢ngulo Escaleno")
 
           fimse
        fimse
